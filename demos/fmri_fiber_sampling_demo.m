@@ -36,7 +36,7 @@ end
 
 %% set tensor rank
 F=100; 
-%% step 1: Initialization
+%% RETSINA
 tic
 iter1=50;
 iter2=2;
